@@ -1,0 +1,10 @@
+{
+  "Name": "explodableBushes",
+  "Author": "maguc00",
+  "Version": "1.0.0",
+  "Description": "Patches the games explode function in order to allow bushes to be destroyed.",
+  "UniqueID": "maguc00.explodableBushes",
+  "EntryDll": "explodableBushes.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
